@@ -1,0 +1,10 @@
+<suite name="TesteApiCadastro" verbose="1">
+    <test name="EsteiraDeTesteAPI">
+        <classes>
+        <class name="TestCases.PostCriaContato"/>
+        <class name="TestCases.GetListaContato"/>
+            <!--<class name="TestCases.PUTEditaContato"/>-->
+            <class name="TestCases.DELETEContato"/>
+            </classes>
+        </test>
+    </suite>
